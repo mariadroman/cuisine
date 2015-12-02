@@ -19,4 +19,4 @@ metastore_db/
 .idea
 test.json
 train.json
-training.txt
+training
